@@ -18,7 +18,7 @@
 
 
 
-## My Skill Set  
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Languages and Tools:
 <table><tr><td valign="top" width="33%">
 
 
