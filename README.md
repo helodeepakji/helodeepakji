@@ -73,10 +73,10 @@
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=helodeepakji&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=helodeepakji&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=helodeepakji&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats: 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=helodeepakji&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=helodeepakji&theme=flat&no-frame=false&no-bg=false&margin-w=4)
